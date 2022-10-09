@@ -14,7 +14,7 @@ import FlipCard, { BackCard, FrontCard } from '../components/FlipCard';
 
 
 const contractConfig = {
-  addressOrName: '0x2308Ffb6CE390AEFcebE66501BC7654Fd29c0546',
+  addressOrName: '0x6302F46F065fA9eB7462aD58167bD9163e3Af515',
   contractInterface: contractInterface,
 };
 
@@ -68,7 +68,7 @@ const Home: NextPage = () => {
       <div className="container">
         <div style={{ flex: '1 1 auto' }}>
           <div style={{ padding: '24px 24px 24px 0' }}>
-            <h1>SVG CUSTOM TEXT NFT MINT</h1>
+            <h1>ANALOGCLOCK SVG  NFT MINT</h1>
             <p style={{ margin: '12px 0 24px' }}>
               {totalMinted} minted so far!
             </p>
