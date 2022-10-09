@@ -118,7 +118,7 @@ const Home: NextPage = () => {
           
           <Image
                 layout="responsive"
-                src="/DigitalTime.png"
+                src="/analog.png"
                 width="500"
                 height="500"
                 alt="SVG Demo NFT"
